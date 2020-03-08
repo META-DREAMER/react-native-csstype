@@ -1,0 +1,16 @@
+{
+  "name": "csstype",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Hammad Jutt <h@jutt.ca> (https://github.com/hammadj)",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/react-native": "^0.61.20"
+  }
+}
